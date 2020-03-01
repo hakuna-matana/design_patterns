@@ -1,0 +1,24 @@
+{
+  "name": "design_patterns",
+  "version": "1.0.0",
+  "description": "design pattern examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nastyarisa/design_patterns.git"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "patterns"
+  ],
+  "author": "Smirnova Anastasya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nastyarisa/design_patterns/issues"
+  },
+  "homepage": "https://github.com/nastyarisa/design_patterns#readme"
+}
