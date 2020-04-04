@@ -20,7 +20,7 @@ class Auto {
 }
 
 class AutoFactory {
-  constructor(name) {
+  constructor() {
     this.models = {}
   }
 
